@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/NorthwindNew/static/css/main.f8f6260d.css",
+    "main.js": "/NorthwindNew/static/js/main.fd4fcfef.js",
+    "index.html": "/NorthwindNew/index.html",
+    "main.f8f6260d.css.map": "/NorthwindNew/static/css/main.f8f6260d.css.map",
+    "main.fd4fcfef.js.map": "/NorthwindNew/static/js/main.fd4fcfef.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f8f6260d.css",
+    "static/js/main.fd4fcfef.js"
+  ]
+}
